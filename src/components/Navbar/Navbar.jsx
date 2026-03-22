@@ -22,10 +22,6 @@ export default function Navbar() {
 
         {/* Right side */}
         <div className="navbar__right">
-          <div className="navbar__badge">
-            <span className="navbar__badge-dot" />
-            <span className="navbar__badge-text">v1.0 · Live</span>
-          </div>
           <a
             href="https://github.com/your-repo/ai-paper-formatter"
             className="navbar__github"
