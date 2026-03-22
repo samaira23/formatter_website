@@ -16,6 +16,7 @@ export default function Footer() {
            
           </p>
         </div>
+      </div>
 
         
       {/* Bottom bar */}
