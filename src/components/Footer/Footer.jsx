@@ -17,6 +17,7 @@ export default function Footer() {
           </p>
         </div>
 
+        
       {/* Bottom bar */}
       <div className="footer__bottom">
         <span className="footer__copy">
