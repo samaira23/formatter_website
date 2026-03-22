@@ -23,7 +23,7 @@ export default function Navbar() {
         {/* Right side */}
         <div className="navbar__right">
           <a
-            href="https://github.com/your-repo/ai-paper-formatter"
+            href="https://github.com/J300-0/minor"
             className="navbar__github"
             target="_blank"
             rel="noopener noreferrer"
